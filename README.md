@@ -1,4 +1,4 @@
-## Describtion
+## Description
 this bot is built to control presentation slides using hand gestures
 
 <br />
