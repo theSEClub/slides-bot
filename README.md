@@ -25,7 +25,7 @@ source ./venv/bin/activate
 ```
 on Windows:
 ```
-./venv/bin/activate.bat
+./venv/Scripts/activate
 ```
 <br />
 
