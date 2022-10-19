@@ -3,6 +3,13 @@ this bot is built to control presentation slides using hand gestures
 
 <br />
 
+## Easy Installation
+download and run the executable application from the releases page
+
+https://github.com/theSEClub/slides-bot/releases
+
+<br />
+
 ## Manual Installation
 
 ### Download
