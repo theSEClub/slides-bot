@@ -2,8 +2,8 @@ import pyautogui
 
 
 def swipe_right():
-    pyautogui.hotkey('ctrl', 'right')
+    pyautogui.press('right')
 
 
 def swipe_left():
-    pyautogui.hotkey('ctrl', 'left')
+    pyautogui.press('left')
